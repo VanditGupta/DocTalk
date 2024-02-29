@@ -1,7 +1,7 @@
 Pillow
 streamlit
-langchain
+langchain-community
 python-dotenv
 openai
 pypdf
-langchain-community
+chromadb
