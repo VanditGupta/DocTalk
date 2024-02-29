@@ -2,3 +2,4 @@ Pillow
 streamlit
 langchain
 python-dotenv
+openai
